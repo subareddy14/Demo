@@ -91,6 +91,9 @@ NSString * LandingCollectionViewCellIdentifier = @"LandingCollectionViewCell";
 }
 
 
+
+//this 
+
 - (void) scrollViewDidEndDecelerating: (UIScrollView *) __unused scrollView
 {
     CGFloat pageWidth = self.collectionView.frame.size.width;
