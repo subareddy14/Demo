@@ -1,0 +1,49 @@
+{
+  "office": [
+    {
+             "summary": "This walkthrough will take you through the consent process. The process will explain the research study, the data collected and how we will use the information.\n \n To consent to the study, you must be a participant 18 years or older or you must consent on behalf of your child.",
+             "htmlContent": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam adhuc, meo fortasse vitio, quid ego quaeram non perspicis. Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest. Quonam, inquit, modo?</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam adhuc, meo fortasse vitio, quid ego quaeram non perspicis. Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest. Quonam, inquit, modo?</p> 研究",
+             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam adhuc, meo fortasse vitio, quid ego quaeram non perspicis. Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest. Quonam, inquit, modo? An potest, inquit ille, quicquam esse suavius quam nihil dolere? Cave putes quicquam esse verius. Quonam, inquit, modo? Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam adhuc, meo fortasse vitio, quid ego quaeram non perspicis. Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest. Quonam, inquit, modo?re? Cave putes quicquam esse verius. Quonam, inquit, modo?Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam adhuc, meo fortasse vitio, quid ego quaeram non perspicis. Plane idem, inquit, et maxima quidem, qua fieri nulla maior potest. Quonam, inquit, modo? An potest, inquit ille, quicquam esse suavius quam nihil dolere? Cave putes quicquam esse verius. Quonam, inquit, modo?"
+       
+    },
+    {
+             "summary": "This study will gather your responses to questions, sensor data and location information from the iPhone and personal fitness device.",
+             "htmlContent": "<p>There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed.</p> 研究",
+             "content": "When your child carries the phone, it will collect information about distance walked as well as stairs climbed. The use of an optional personal fitness device will result in additional data collection.\n \n Additionally the system will ask your child to answer simple survey questions. The app will also collect your child’s response to the optional survey questions."
+ 
+    },
+    {
+             "summary": "Despite modern protections and best practices used in this study, unforeseen circumstances may result in the exposure of your child’s data.",
+             "htmlContent": "<p>There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed.</p> 研究",
+             "content": "There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed."
+          
+    },
+    {
+             "summary": "Despite modern protections and best practices used in this study, unforeseen circumstances may result in the exposure of your child’s data.",
+             "htmlContent": "<p>There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed.</p> 研究",
+             "content": "There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed."
+    },
+    {
+             "summary": "Despite modern protections and best practices used in this study, unforeseen circumstances may result in the exposure of your child’s data.",
+             "htmlContent": "<p>There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed.</p> 研究",
+             "content": "There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed."
+             
+    },
+    {
+             "summary": "Despite modern protections and best practices used in this study, unforeseen circumstances may result in the exposure of your child’s data.",
+             "htmlContent": "<p>There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed.</p> 研究",
+             "content": "There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed."
+             
+    },
+    {
+             "summary": "This research study will ask your child to perform tasks and to answer survey questions",
+             "htmlContent": "<p>Study Tasks \n*Your child will answer a few weekly questions about their pulmonary hypertension (if applicable) \n*Your child will be asked to perform a 6 minute walk test every month. Time Commitment \n*Your child’s participation will average 15 minutes per week for 6 months.</p> 研究",
+             "content": "Study Tasks \n*Your child will answer a few weekly questions about their pulmonary hypertension (if applicable) \n*Your child will be asked to perform a 6 minute walk test every month. \nTime Commitment \n*Your child’s participation will average 15 minutes per week for 6 months."
+    },
+    {
+             "summary": "You can withdraw your child from the study at any time.",
+             "htmlContent": "<p>There is a risk that people outside of the research team will see your research information.</p> 研究",
+             "content": "There is a risk that people outside of the research team will see your research information. We will do all that we can to protect your information, but it cannot be guaranteed."
+    },
+]
+}
