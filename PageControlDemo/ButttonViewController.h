@@ -11,6 +11,7 @@
 @interface ButttonViewController : UIViewController
 
 @property (weak, nonatomic) IBOutlet UIButton *btnimg;
+//test
 
 @property (weak, nonatomic) IBOutlet UIButton *btnSecond;
 
