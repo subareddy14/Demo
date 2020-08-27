@@ -1,6 +1,6 @@
 //
 //  ButttonViewController.m
-//  PageControlDemo
+//  PageControlDemo it is for testing
 //
 //  Created by admin on 06/01/16.
 //  Copyright © 2016 admin. All rights reserved.
